@@ -19,7 +19,7 @@ label,
 a {
   font-family: "helvetica";
   font-size: 16px;
-  color: #575757 !important;
+  color: #333333 !important;
 }
 
 a,
@@ -778,11 +778,11 @@ h4 {
 }
 
 .bgc-primary {
-  background-color: orangered;
+  background-color: #f3976c;
 }
 
 .tc-primary {
-  color: orangered !important;
+  color: #f3976c !important;
 }
 
 .icon-secondary {
@@ -850,7 +850,6 @@ h4 {
   .page-container {
     overflow-x: hidden;
     position: relative;
-    padding: 10px;
   }
   h1,
   h2,
@@ -868,7 +867,6 @@ h4 {
   }
   .navbar .nav {
     padding-top: 0;
-    border-top: 1px solid rgba(0, 0, 0, 0.2);
     float: none !important;
   }
   .navbar.row {
