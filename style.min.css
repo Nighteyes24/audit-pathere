@@ -245,7 +245,7 @@ a:hover {
   font-size: 32px;
 }
 .navbar {
-  flex-direction: row;
+  margin: 0px 100px;
   margin-bottom: 0;
   z-index: 1;
 }
