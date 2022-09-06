@@ -3623,7 +3623,7 @@ input[type="submit"].btn-block {
   display: none;
 }
 .collapse.in {
-  display: block;
+  display: initial;
 }
 tr.collapse.in {
   display: table-row;
