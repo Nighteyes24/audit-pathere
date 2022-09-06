@@ -245,6 +245,8 @@ a:hover {
   font-size: 32px;
 }
 .navbar {
+  display: flex;
+  flex-direction: column;
   margin-bottom: 0;
   z-index: 1;
 }
