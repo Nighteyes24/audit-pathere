@@ -3623,10 +3623,10 @@ input[type="submit"].btn-block {
   display: none;
 }
 .collapse.in {
-  display: initial;
+  display: inline;
 }
 tr.collapse.in {
-  display: table-row;
+  display: inline;
 }
 tbody.collapse.in {
   display: table-row-group;
